@@ -1,0 +1,85 @@
+
+   img {border-radius: 50%; -webkit-column-break-after: right; float:center; 
+}   
+     */Esta imagen fue obtenida de la pagina. https://randomuser.me/photos
+h1 {
+    text-decoration: overline; 
+    color: rgb(0, 89, 255);
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    font-family: sans-serif;
+    font-size: 150%;
+    border: none
+  }
+  .dropdown {
+    position: absoluta
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: relative;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    z-index: 1;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+h2 {
+    text-decoration-line: underline;
+    text-decoration-style: dotted; 
+    color: rgba(168, 41, 147);
+    font-family: verdana;
+    font-size: 100%;
+    border: none
+    
+  }
+h3 {
+    color: rgba(43, 40, 245, 0.678);
+    font-family: Arial;
+    font-size: 100%;
+    border: none
+    
+  }
+  
+  p, li {
+    color: rgba(130, 8, 216, 0.856);
+    font-family: sans-serif;
+    font-size: 100%;
+    border: none
+    
+  }
+
+  input[type=text], select{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #37f5c5;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  input[type=submit] {
+    width: 100%;
+    background-color: #4CAF50;
+    color: rgb(216, 247, 166);
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  
+  div {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
